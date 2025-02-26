@@ -52,8 +52,8 @@ function Projects() {
               isBlog={false}
               title="Personal Portfolio"
               description="A dynamic portfolio built using React.js to showcase my skills, projects, and professional journey. Includes animated sections and a contact form."
-              ghLink="https://github.com/yourusername/portfolio"
-              demoLink="https://your-portfolio-link.com"
+              ghLink="https://github.com/mubasshirahmed-3712/My-portfolio"
+              demoLink="https://mubasshirsportfolio.vercel.app/"
             />
           </Col>
 
