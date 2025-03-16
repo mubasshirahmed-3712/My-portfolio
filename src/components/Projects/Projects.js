@@ -28,8 +28,8 @@ function Projects() {
               isBlog={false}
               title="Bike E-Commerce Website"
               description="A fully responsive bike e-commerce platform with features like product listings, cart management using localStorage, order confirmation via email, and JWT-based authentication."
-              ghLink="https://github.com/yourusername/bike-ecommerce"
-              demoLink="https://your-bike-demo-link.com"
+              ghLink="https://github.com/mubasshirahmed-3712/bike-ecommerce-frontend"
+              demoLink="https://bike-estore.vercel.app/"
             />
           </Col>
 
@@ -41,7 +41,7 @@ function Projects() {
               title="URL Shortener"
               description="A simple and efficient URL shortener using Express.js, EJS, and MongoDB. Generates unique short URLs and tracks click statistics."
               ghLink="https://github.com/yourusername/url-shortener"
-              demoLink="https://your-url-demo-link.com"
+              demoLink="https://myurlify.vercel.app/"
             />
           </Col>
 
@@ -88,8 +88,8 @@ function Projects() {
               isBlog={false}
               title="To-Do Application"
               description="A simple and efficient to-do list application using React.js with CRUD operations, task tracking, and localStorage for persistent data."
-              ghLink="https://github.com/yourusername/todo-app"
-              demoLink="https://your-todo-demo-link.com"
+              ghLink="https://github.com/mubasshirahmed-3712/TASKify-frontend"
+              demoLink="https://get-taskify.vercel.app/"
             />
           </Col>
         </Row>
